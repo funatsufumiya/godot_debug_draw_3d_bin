@@ -1,3 +1,10 @@
+This repo is tiny fork intended for use as git submodule.
+see https://github.com/DmitriySalnikov/godot_debug_draw_3d/tree/master/addons/debug_draw_3d
+
+----
+
+Original README
+
 ![icon](/images/icon_3d_128.png)
 
 # Debug drawing utility for Godot
